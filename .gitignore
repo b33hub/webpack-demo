@@ -8,3 +8,21 @@ tmp/nanoc/
 
 # Crash Log
 crash.log
+
+
+# Node Files #
+/node_modules
+node_modules
+/bower_components
+npm-debug.log
+
+# Dist #
+/dist
+
+# IDE #
+.idea/
+*.swp
+.vscode/
+
+*.lock
+*.log
